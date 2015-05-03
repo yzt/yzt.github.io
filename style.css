@@ -1,9 +1,18 @@
 th {
-	padding: 0px 15px 0px 15px;
+	padding: 0px 5px 0px 5px;
 	font-weight: bold;
 	border: 1px solid black;
+	background-color: #C0C0C0;
 }
 
 td {
 	padding: 0px 5px 0px 5px;
+}
+
+.session {
+	background-color: #FFFFFF;
+}
+
+.qa {
+	background-color: #E0E0E0;
 }
