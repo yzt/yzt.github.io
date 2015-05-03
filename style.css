@@ -1,3 +1,8 @@
+body {
+	font-family: verdana;
+	background-color: #F4F0FF;
+}
+
 th {
 	padding: 0px 5px 0px 5px;
 	font-weight: bold;
@@ -5,8 +10,9 @@ th {
 	background-color: #C0C0C0;
 }
 
-td {
+.megalinktable, td {
 	padding: 0px 5px 0px 5px;
+	font-family: consolas, courier;
 }
 
 .session {
